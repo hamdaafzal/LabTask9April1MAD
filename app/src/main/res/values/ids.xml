@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="emailET" type="id" />
+    <item name="passwordET" type="id" />
+    <item name="SignUpButton" type="id" />
+    <item name="LogInButton" type="id" />
+    <item name="logout" type="id" />
+    <item name="Upload" type="id" />
+    <item name="Download" type="id" />
+</resources>
